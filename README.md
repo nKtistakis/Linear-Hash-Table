@@ -17,6 +17,7 @@ The search starts from the expected index of the _key_ and keeps incremating unt
 
 # Run Instructions
 In order for tests to execute, run:
--cd ../LinearHash
 
--mvn test (inside ../LinearHash direcotry!)
+- cd ../LinearHash
+
+- mvn test (inside ../LinearHash direcotry!)
